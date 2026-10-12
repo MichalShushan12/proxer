@@ -1,0 +1,18 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+appsettings.Development.json
+
+# Node / extension
+node_modules/
+out/
+dist/
+*.vsix
+.vscode-test/
+
+# OS
+Thumbs.db
+.DS_Store
