@@ -3,7 +3,7 @@
 AI-powered code assistant for VS Code. Refactor your code and get explanations
 **in your own language**.
 
-[▶ Watch the demo](demo.gif)
+[▶ Watch the demo](demo.gif.gif)
 
 
 ## Architecture
